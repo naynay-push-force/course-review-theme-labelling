@@ -1,0 +1,1680 @@
+[
+ {
+  "n": 1,
+  "id": "4786",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 2,
+  "id": "1854",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 3,
+  "id": "5859",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 4,
+  "id": "3090",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 5,
+  "id": "2031",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 6,
+  "id": "4121",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 7,
+  "id": "2689",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 8,
+  "id": "5394",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 9,
+  "id": "2478",
+  "categories": [
+   "Course - Assessment"
+  ]
+ },
+ {
+  "n": 10,
+  "id": "6443",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 11,
+  "id": "5054",
+  "categories": [
+   "Course - Content",
+   "Course - Course materials"
+  ]
+ },
+ {
+  "n": 12,
+  "id": "3534",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 13,
+  "id": "4190",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Staff - Helpfulness"
+  ]
+ },
+ {
+  "n": 14,
+  "id": "5338",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 15,
+  "id": "6244",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 16,
+  "id": "2194",
+  "categories": [
+   "Course - Content",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 17,
+  "id": "3146",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 18,
+  "id": "5494",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 19,
+  "id": "3328",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 20,
+  "id": "5267",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 21,
+  "id": "774",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall",
+   "Staff - Attitude",
+   "Staff - Helpfulness"
+  ]
+ },
+ {
+  "n": 22,
+  "id": "2094",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 23,
+  "id": "4771",
+  "categories": [
+   "Course - Course materials"
+  ]
+ },
+ {
+  "n": 24,
+  "id": "1536",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 25,
+  "id": "5377",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 26,
+  "id": "2138",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 27,
+  "id": "4139",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 28,
+  "id": "620",
+  "categories": [
+   "Course - Content",
+   "Course - Course materials",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 29,
+  "id": "3497",
+  "categories": [
+   "Course - Content",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 30,
+  "id": "6387",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 31,
+  "id": "4200",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 32,
+  "id": "4747",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Overall",
+   "Staff - Overall"
+  ]
+ },
+ {
+  "n": 33,
+  "id": "1294",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 34,
+  "id": "1432",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 35,
+  "id": "3297",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 36,
+  "id": "3917",
+  "categories": [
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 37,
+  "id": "3333",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 38,
+  "id": "3465",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 39,
+  "id": "2038",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 40,
+  "id": "3284",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 41,
+  "id": "4304",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 42,
+  "id": "4168",
+  "categories": [
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 43,
+  "id": "3206",
+  "categories": [
+   "Course - Assessment",
+   "Course - Course materials",
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Course - Workload",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 44,
+  "id": "5757",
+  "categories": [
+   "Course - Course materials",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 45,
+  "id": "2148",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 46,
+  "id": "4085",
+  "categories": []
+ },
+ {
+  "n": 47,
+  "id": "2315",
+  "categories": [
+   "Course - Assessment"
+  ]
+ },
+ {
+  "n": 48,
+  "id": "2079",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 49,
+  "id": "440",
+  "categories": [
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 50,
+  "id": "2285",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall",
+   "Course - Workload",
+   "Staff - Knowledge & skills"
+  ]
+ },
+ {
+  "n": 51,
+  "id": "217",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 52,
+  "id": "2617",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall",
+   "Course - Workload",
+   "Staff - Helpfulness"
+  ]
+ },
+ {
+  "n": 53,
+  "id": "5140",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 54,
+  "id": "3236",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 55,
+  "id": "5781",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 56,
+  "id": "4249",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 57,
+  "id": "6223",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 58,
+  "id": "1172",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 59,
+  "id": "3336",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 60,
+  "id": "6146",
+  "categories": []
+ },
+ {
+  "n": 61,
+  "id": "2330",
+  "categories": [
+   "Course - Assessment",
+   "Course - Course materials",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 62,
+  "id": "2386",
+  "categories": [
+   "Course - Course materials",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 63,
+  "id": "4725",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 64,
+  "id": "3648",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 65,
+  "id": "1402",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 66,
+  "id": "2057",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 67,
+  "id": "3680",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 68,
+  "id": "5007",
+  "categories": [
+   "Course - Assessment",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 69,
+  "id": "6035",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 70,
+  "id": "6381",
+  "categories": [
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 71,
+  "id": "1465",
+  "categories": [
+   "Course - Overall",
+   "Staff - Overall"
+  ]
+ },
+ {
+  "n": 72,
+  "id": "2657",
+  "categories": [
+   "Staff - Overall"
+  ]
+ },
+ {
+  "n": 73,
+  "id": "3880",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 74,
+  "id": "6325",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 75,
+  "id": "3397",
+  "categories": [
+   "Course - Course materials",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 76,
+  "id": "3370",
+  "categories": [
+   "Course - Course materials",
+   "Course - Overall",
+   "Staff - Helpfulness"
+  ]
+ },
+ {
+  "n": 77,
+  "id": "4737",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 78,
+  "id": "1731",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty",
+   "Staff - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 79,
+  "id": "1362",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 80,
+  "id": "3343",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 81,
+  "id": "2097",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 82,
+  "id": "5897",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 83,
+  "id": "695",
+  "categories": [
+   "Course - Content",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 84,
+  "id": "1014",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 85,
+  "id": "1765",
+  "categories": [
+   "Course - Content",
+   "Course - Overall",
+   "Course - Technology & tools"
+  ]
+ },
+ {
+  "n": 86,
+  "id": "44",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 87,
+  "id": "1562",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 88,
+  "id": "4456",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 89,
+  "id": "2384",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 90,
+  "id": "3501",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 91,
+  "id": "2311",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 92,
+  "id": "835",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 93,
+  "id": "1981",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Workload",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 94,
+  "id": "2875",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 95,
+  "id": "2422",
+  "categories": [
+   "Course - Course materials",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 96,
+  "id": "4698",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 97,
+  "id": "6095",
+  "categories": [
+   "Course - Content",
+   "Course - Learning activity",
+   "Course - Workload",
+   "Staff - Overall"
+  ]
+ },
+ {
+  "n": 98,
+  "id": "2670",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 99,
+  "id": "4897",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 100,
+  "id": "5297",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 101,
+  "id": "4431",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 102,
+  "id": "4170",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 103,
+  "id": "751",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 104,
+  "id": "3065",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 105,
+  "id": "3078",
+  "categories": [
+   "Course - Course materials",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 106,
+  "id": "2824",
+  "categories": [
+   "Course - Assessment",
+   "Course - Course materials",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Course - Technology & tools",
+   "Staff - Knowledge & skills"
+  ]
+ },
+ {
+  "n": 107,
+  "id": "1399",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 108,
+  "id": "5728",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 109,
+  "id": "2538",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 110,
+  "id": "1043",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 111,
+  "id": "5026",
+  "categories": [
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 112,
+  "id": "2197",
+  "categories": [
+   "Course - Learning activity",
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 113,
+  "id": "1980",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 114,
+  "id": "3892",
+  "categories": [
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 115,
+  "id": "1788",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 116,
+  "id": "5236",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 117,
+  "id": "2265",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall",
+   "Staff - Attitude",
+   "Staff - Overall"
+  ]
+ },
+ {
+  "n": 118,
+  "id": "3239",
+  "categories": [
+   "Course - Content",
+   "Course - Course materials",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 119,
+  "id": "3538",
+  "categories": [
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 120,
+  "id": "488",
+  "categories": [
+   "Course - Assessment",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 121,
+  "id": "5864",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 122,
+  "id": "5495",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Course materials",
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 123,
+  "id": "3769",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 124,
+  "id": "6423",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 125,
+  "id": "768",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 126,
+  "id": "1244",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 127,
+  "id": "2322",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 128,
+  "id": "596",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 129,
+  "id": "5254",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 130,
+  "id": "1301",
+  "categories": [
+   "Course - Content",
+   "Course - Course materials",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 131,
+  "id": "2124",
+  "categories": [
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 132,
+  "id": "6436",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 133,
+  "id": "6235",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 134,
+  "id": "914",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 135,
+  "id": "5121",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Staff - Attitude"
+  ]
+ },
+ {
+  "n": 136,
+  "id": "2388",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 137,
+  "id": "4959",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 138,
+  "id": "5932",
+  "categories": [
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 139,
+  "id": "1687",
+  "categories": [
+   "Course - Content",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 140,
+  "id": "1651",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 141,
+  "id": "902",
+  "categories": [
+   "Course - Learning activity",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 142,
+  "id": "6271",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 143,
+  "id": "1088",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 144,
+  "id": "6024",
+  "categories": [
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 145,
+  "id": "5702",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 146,
+  "id": "6125",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 147,
+  "id": "6411",
+  "categories": [
+   "Course - Assessment",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 148,
+  "id": "349",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 149,
+  "id": "6034",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 150,
+  "id": "1125",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 151,
+  "id": "5685",
+  "categories": [
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 152,
+  "id": "1837",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 153,
+  "id": "5497",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 154,
+  "id": "3193",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 155,
+  "id": "6",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 156,
+  "id": "1282",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 157,
+  "id": "2843",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 158,
+  "id": "341",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 159,
+  "id": "1856",
+  "categories": [
+   "Course - Course materials",
+   "Course - Overall",
+   "Staff - Teaching",
+   "University - Programme"
+  ]
+ },
+ {
+  "n": 160,
+  "id": "655",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 161,
+  "id": "1085",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 162,
+  "id": "6439",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 163,
+  "id": "6334",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 164,
+  "id": "6281",
+  "categories": [
+   "Course - Difficulty",
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 165,
+  "id": "2122",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 166,
+  "id": "5868",
+  "categories": [
+   "Course - Content",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Staff - Teaching",
+   "University - Programme"
+  ]
+ },
+ {
+  "n": 167,
+  "id": "2103",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Course materials",
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 168,
+  "id": "1942",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 169,
+  "id": "1905",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Course materials",
+   "Course - Difficulty",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 170,
+  "id": "4815",
+  "categories": [
+   "Course - Content",
+   "Course - Course materials",
+   "Course - Overall",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 171,
+  "id": "3183",
+  "categories": []
+ },
+ {
+  "n": 172,
+  "id": "2771",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 173,
+  "id": "4619",
+  "categories": [
+   "Course - Content",
+   "Course - Technology & tools"
+  ]
+ },
+ {
+  "n": 174,
+  "id": "6430",
+  "categories": [
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 175,
+  "id": "4470",
+  "categories": [
+   "Course - Course materials",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 176,
+  "id": "2185",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 177,
+  "id": "4013",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 178,
+  "id": "5960",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 179,
+  "id": "4578",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 180,
+  "id": "4222",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 181,
+  "id": "6025",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 182,
+  "id": "1372",
+  "categories": [
+   "Course - Assessment",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 183,
+  "id": "2120",
+  "categories": [
+   "Course - Assessment",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 184,
+  "id": "1635",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 185,
+  "id": "3171",
+  "categories": [
+   "Course - Content",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 186,
+  "id": "3984",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 187,
+  "id": "1998",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 188,
+  "id": "1828",
+  "categories": [
+   "Course - Content",
+   "Course - Learning activity",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 189,
+  "id": "3560",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Workload"
+  ]
+ },
+ {
+  "n": 190,
+  "id": "4629",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Difficulty",
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 191,
+  "id": "162",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 192,
+  "id": "1252",
+  "categories": [
+   "Course - Content",
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 193,
+  "id": "3369",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 194,
+  "id": "27",
+  "categories": [
+   "Course - Content"
+  ]
+ },
+ {
+  "n": 195,
+  "id": "2263",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Learning activity",
+   "Course - Overall",
+   "Staff - Overall"
+  ]
+ },
+ {
+  "n": 196,
+  "id": "5151",
+  "categories": [
+   "Course - Course materials",
+   "Course - Difficulty"
+  ]
+ },
+ {
+  "n": 197,
+  "id": "4232",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Learning activity"
+  ]
+ },
+ {
+  "n": 198,
+  "id": "418",
+  "categories": [
+   "Course - Assessment",
+   "Course - Content",
+   "Course - Overall",
+   "Staff - Teaching"
+  ]
+ },
+ {
+  "n": 199,
+  "id": "2150",
+  "categories": [
+   "Course - Overall"
+  ]
+ },
+ {
+  "n": 200,
+  "id": "6170",
+  "categories": [
+   "Course - Difficulty"
+  ]
+ }
+]
